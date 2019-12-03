@@ -1,0 +1,67 @@
+#vakje-1{
+    width: 400px;
+    height: 300px;
+    background-color: lightgrey;
+}
+
+#welkom-tekst-1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#welkom-tekst-2{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#voornaam-achternaam{
+    width: 400px;
+    height: 40px;
+}
+
+#voornaam{
+    width: 150px;
+    height: 40px;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+#achternaam{
+    width: 150px;
+    height: 40px;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+#email, #wachtwoord, #h-wachtwoord{
+    width: 300px;
+    height: 40px;
+    margin-left: 50px;
+}
+
+#inlog-knop{
+    width: 300px;
+    height: 50px;
+    margin-left: 50px;
+}
+
+#voornaam1{
+    width: 125px;
+    height: 30px;
+}
+
+#achternaam1{
+    width: 125px;
+    height: 30px;
+}
+
+#email1, #wachtwoord1, #h-wachtwoord1{
+    width: 289px;
+    height: 30px;
+}
+
+#inlog-knop1{
+    width: 292px;
+    height: 30px;
+    background-color: cornflowerblue;
+}
